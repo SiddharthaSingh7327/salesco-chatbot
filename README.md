@@ -1,6 +1,6 @@
 # SalesCo Database Q&A Chatbot
 
-Ask questions about a sales database in plain English, and get back the answer, the SQL that was run, a data table, and a chart — all in a simple chat interface.
+Ask questions about a sales database in plain English, and get back the answer, the SQL that was run, a data table, and a chart, all in a simple chat interface.
 
 ## What this project does
 
@@ -100,7 +100,7 @@ This should automatically open your browser to `http://localhost:8501`.
 
 ## Safety notes
 
-This project only allows **read-only** questions — it cannot delete, change, or add data, even if you ask it to. Every generated SQL query is checked before it runs, and anything that looks like it could modify data is automatically blocked.
+This project only allows **read only** questions — it cannot delete, change, or add data, even if you ask it to. Every generated SQL query is checked before it runs, and anything that looks like it could modify data is automatically blocked.
 
 ## Troubleshooting
 
