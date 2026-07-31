@@ -1,0 +1,13 @@
+psycopg2-binary
+langchain-groq
+langchain-core
+langchain
+fastapi
+uvicorn
+streamlit
+python-dotenv
+loguru
+langgraph
+plotly
+pandas
+pymongo

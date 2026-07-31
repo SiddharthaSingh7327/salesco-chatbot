@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+logs/
+mongodb-data/
+.streamlit/secrets.toml
+.DS_Store
+AI Daily Sync Chat History.txt
+Meeting Compact View Graph.png
